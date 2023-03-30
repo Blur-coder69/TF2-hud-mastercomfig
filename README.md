@@ -9,3 +9,5 @@ https://github.com/n0kk/ahud
 https://mastercomfig.com/
 
 https://github.com/alekny/alekny-mastercomfig-preset
+
+https://github.com/rbjaxter/budhud
